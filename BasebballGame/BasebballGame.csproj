@@ -8,4 +8,8 @@
         <RootNamespace>BaseballGame</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="docs\" />
+    </ItemGroup>
+
 </Project>
