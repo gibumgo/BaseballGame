@@ -1,0 +1,14 @@
+/Users/m1/development/BaseballGame/BasebballGame/obj/Debug/net8.0/BasebballGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1/development/BaseballGame/BasebballGame/obj/Debug/net8.0/BasebballGame.AssemblyInfoInputs.cache
+/Users/m1/development/BaseballGame/BasebballGame/obj/Debug/net8.0/BasebballGame.AssemblyInfo.cs
+/Users/m1/development/BaseballGame/BasebballGame/obj/Debug/net8.0/BasebballGame.csproj.CoreCompileInputs.cache
+/Users/m1/development/BaseballGame/BasebballGame/bin/Debug/net8.0/BasebballGame
+/Users/m1/development/BaseballGame/BasebballGame/bin/Debug/net8.0/BasebballGame.deps.json
+/Users/m1/development/BaseballGame/BasebballGame/bin/Debug/net8.0/BasebballGame.runtimeconfig.json
+/Users/m1/development/BaseballGame/BasebballGame/bin/Debug/net8.0/BasebballGame.dll
+/Users/m1/development/BaseballGame/BasebballGame/bin/Debug/net8.0/BasebballGame.pdb
+/Users/m1/development/BaseballGame/BasebballGame/obj/Debug/net8.0/BasebballGame.dll
+/Users/m1/development/BaseballGame/BasebballGame/obj/Debug/net8.0/refint/BasebballGame.dll
+/Users/m1/development/BaseballGame/BasebballGame/obj/Debug/net8.0/BasebballGame.pdb
+/Users/m1/development/BaseballGame/BasebballGame/obj/Debug/net8.0/BasebballGame.genruntimeconfig.cache
+/Users/m1/development/BaseballGame/BasebballGame/obj/Debug/net8.0/ref/BasebballGame.dll
