@@ -7,18 +7,18 @@ namespace test;
 [TestOf(typeof(DataManager))]
 public class DataManagerTest
 {
-
+    private DataManager Data = DataManager.Instance();
     [Test]
     public void Return_Player_Integer_Test()
     {
         for (int index = 0; index < 3; index++)
         {
-            DataManager.n_player_List.Add(index);
+            Data.n_player_List.Add(index);
         }
         int Tempindex = 0;
-        foreach (int Player_integer in DataManager.n_player_List)
+        foreach (int Player_integer in Data.n_player_List)
         {
-            Assert.AreEqual( Player_integer, DataManager.Return_Player_Integer(Tempindex) );
+            Assert.AreEqual( Player_integer, Data.Return_Player_Integer(Tempindex) );
             Tempindex++;
         }
     }
@@ -28,12 +28,12 @@ public class DataManagerTest
     {
         for (int index = 0; index < 3; index++)
         {
-            DataManager.n_computer_List.Add(index);
+            Data.n_computer_List.Add(index);
         }
         int Tempindex = 0;
-        foreach (int computer_integer in DataManager.n_computer_List)
+        foreach (int computer_integer in Data.n_computer_List)
         {
-            Assert.AreEqual( computer_integer, DataManager.Return_Computer_Integer(Tempindex) );
+            Assert.AreEqual( computer_integer, Data.Return_Computer_Integer(Tempindex) );
             Tempindex++;
         }
     }

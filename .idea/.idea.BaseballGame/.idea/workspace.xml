@@ -8,49 +8,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e02e438a-8850-416d-af47-b8b9065f86c5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/BasebballGame/GameManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasebballGameTests/GameManagerTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaseballGame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BaseballGame/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BaseballGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BaseballGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaseballGame.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/BaseballGame.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/Application.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/Application.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGame/DataManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/DataManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGame/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/GameManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/bin/Debug/net8.0/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/bin/Debug/net8.0/BasebballGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGame/bin/Debug/net8.0/BasebballGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/bin/Debug/net8.0/BasebballGame.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/bin/Debug/net8.0/BasebballGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/bin/Debug/net8.0/BasebballGame.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/BasebballGame.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/BasebballGame.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/BasebballGame.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/BasebballGame.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/BasebballGame.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/ref/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/ref/BasebballGame.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/refint/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/refint/BasebballGame.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/ApplicationTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/ApplicationTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/BasebballGameTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/BasebballGameTests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/CoverletSourceRootsMapping_BasebballGameTests" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/CoverletSourceRootsMapping_BasebballGameTests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/BasebballGameTests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/BasebballGameTests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/BasebballGameTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/BasebballGameTests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/BasebballGameTests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/BasebballGameTests.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/DataManagerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/DataManagerTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/GameManagerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/GameManagerTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGameTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGameTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGameTests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/ref/BasebballGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/ref/BasebballGameTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/refint/BasebballGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/refint/BasebballGameTests.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +48,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/System/Reflection/MethodBaseInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5abecb93434c4299acd01d522fdf8da2c9a910/10/7d89f307/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -74,31 +73,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.BasebballGame.executor&quot;: &quot;Debug&quot;,
-    &quot;169e6b84-4bab-471f-9514-93e41aa7079a.executor&quot;: &quot;Debug&quot;,
-    &quot;7ddd33fb-dac5-4798-a0d1-77cf9c1f47d2.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/m1/development/BaseballGame&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;RiderDotCoverPageId&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.BasebballGame.executor": "Debug",
+    ".NET Static Method.BaseballGame.GameManager.aa.executor": "Debug",
+    "169e6b84-4bab-471f-9514-93e41aa7079a.executor": "Debug",
+    "7ddd33fb-dac5-4798-a0d1-77cf9c1f47d2.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/m1/development/BaseballGame",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "RiderDotCoverPageId",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\child\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\child\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\child\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\child\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\child\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\child\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Project.BasebballGame">
     <configuration name="BasebballGame" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -118,6 +118,27 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="BaseballGame.GameManager.aa" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2023.3.3\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BasebballGame/BasebballGame.csproj" />
+      <option name="PROJECT_TFM" value="net8.0" />
+      <option name="CLASS_NAME" value="BaseballGame.GameManager" />
+      <option name="METHOD_NAME" value="aa" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.BaseballGame.GameManager.aa" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -134,7 +155,7 @@
       <workItem from="1707015041239" duration="302000" />
       <workItem from="1707018879252" duration="5328000" />
       <workItem from="1707029359012" duration="1087000" />
-      <workItem from="1707030782794" duration="3301000" />
+      <workItem from="1707030782794" duration="18823000" />
     </task>
     <servers />
   </component>
@@ -147,5 +168,16 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="Data.n_computer_List" language="C#" />
+      </configuration>
+      <configuration name="DotNetStaticMethod">
+        <watch expression="Data.n_computer_List.Count" language="C#" />
+        <watch expression="Data.n_computer_List" language="C#" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -8,6 +8,9 @@
     &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.aaTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.DataManagerTest.Return_Player_Integer_Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.DataManagerTest.Return_Computer_Integer_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.Compare_Integer_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.Computer_List_Input_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.Input_Random_Integer_Test&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	</wpf:ResourceDictionary>
