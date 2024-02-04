@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/m1/.nuget/packages/": {}
+    "C:\\Users\\child\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/m1/development/BaseballGame/BasebballGame/BasebballGame.csproj",
+      "projectUniqueName": "C:\\Users\\child\\OneDrive\\문서\\GitHub\\BaseballGame\\BasebballGame\\BasebballGame.csproj",
       "projectName": "BasebballGame",
-      "projectPath": "/Users/m1/development/BaseballGame/BasebballGame/BasebballGame.csproj",
-      "packagesPath": "/Users/m1/.nuget/packages/",
-      "outputPath": "/Users/m1/development/BaseballGame/BasebballGame/obj/",
+      "projectPath": "C:\\Users\\child\\OneDrive\\문서\\GitHub\\BaseballGame\\BasebballGame\\BasebballGame.csproj",
+      "packagesPath": "C:\\Users\\child\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\child\\OneDrive\\문서\\GitHub\\BaseballGame\\BasebballGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/m1/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\child\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\child\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
