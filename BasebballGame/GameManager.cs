@@ -14,6 +14,7 @@ public class GameManager
             
         }
     }
+    
     public static int Random_Integer_Spawn(int Min , int Max)
     {
         Random random = new Random();
