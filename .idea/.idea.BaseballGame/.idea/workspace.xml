@@ -11,7 +11,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BaseballGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BaseballGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaseballGame.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/BaseballGame.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/Application.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/Application.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGame/DataManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/DataManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/GameManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/bin/Debug/net8.0/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/bin/Debug/net8.0/BasebballGame.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/bin/Debug/net8.0/BasebballGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/bin/Debug/net8.0/BasebballGame.exe" afterDir="false" />
@@ -24,7 +23,7 @@
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/ref/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/ref/BasebballGame.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/refint/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/refint/BasebballGame.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/DataManagerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/DataManagerTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGame/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/GameManagerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/GameManagerTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.exe" afterDir="false" />
@@ -39,6 +38,7 @@
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/ref/BasebballGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/ref/BasebballGameTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/refint/BasebballGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/refint/BasebballGameTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/System/Reflection/MethodBaseInvoker.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5abecb93434c4299acd01d522fdf8da2c9a910/10/7d89f307/List`1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -155,7 +152,9 @@
       <workItem from="1707015041239" duration="302000" />
       <workItem from="1707018879252" duration="5328000" />
       <workItem from="1707029359012" duration="1087000" />
-      <workItem from="1707030782794" duration="18823000" />
+      <workItem from="1707030782794" duration="22026000" />
+      <workItem from="1707055257105" duration="2167000" />
+      <workItem from="1707110330425" duration="13574000" />
     </task>
     <servers />
   </component>
@@ -163,6 +162,17 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
@@ -173,6 +183,7 @@
     <watches-manager>
       <configuration name="DotNetProject">
         <watch expression="Data.n_computer_List" language="C#" />
+        <watch expression="Data.n_player_List" language="C#" />
       </configuration>
       <configuration name="DotNetStaticMethod">
         <watch expression="Data.n_computer_List.Count" language="C#" />
