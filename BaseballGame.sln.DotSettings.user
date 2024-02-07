@@ -15,16 +15,20 @@
     &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.Value_Range_Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.ThrowMethod_Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.List_Input_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.UserTest.ToCompare_ValueRange_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.UserTest.ToCheck_InputList_Length_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.UserTest.ToInput_Continue_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.UserTest.ExceptionCheck_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.UserTest.ToInput_KeyValue_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.ComputerTest.Random_Integer_Spawn_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.ComputerTest.Three_Random_Integer_Spawn_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.ComputerTest.Random_integer_Spawn_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.ComputerTest.ToCompare_Value_List_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.ComputerTest.Compare_Integer_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.ComputerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.ContinueInput_Test&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7971b574_002Dd8b4_002D41ab_002Dacaf_002Dc94a433783ba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Value_Range_Test #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.Value_Range_Test&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a698dada_002D58c3_002D44a8_002Db26e_002Dd47d89845690/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Value_Range_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.Value_Range_Test&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
+	
+	
 	</wpf:ResourceDictionary>
