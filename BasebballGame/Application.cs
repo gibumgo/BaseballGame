@@ -1,10 +1,12 @@
 ﻿namespace BaseballGame
 {
-    public static class Application
+    public class Application
     {
-         public static void Main(string[] args)
-         {
-             
-         }
+        private static GameManager Gm = new GameManager();
+
+        public static void Main(string[] args)
+        {
+            Gm.Init();
+        }
     }
 }
