@@ -6,7 +6,7 @@
 
         public static void Main(string[] args)
         {
-            Gm.In_Game_();
+            Gm.Init();
         }
     }
 }

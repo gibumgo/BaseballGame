@@ -1,4 +1,6 @@
-﻿namespace BaseballGame;
+﻿using System.Text.RegularExpressions;
+
+namespace BaseballGame;
 
 public class User
 {
@@ -31,11 +33,12 @@ public class User
         {
             ToCheck_InputList_Length(Temp_Key_Value, Length);
             ToCompare_List(Temp_Key_Value, Min, Max);
+            Duplication_Value(Temp_Key_Value);
         }
-        catch (ArgumentException a) when (a.Message == "잘못된 입력(개수)" && a.Message == "잘못된 입력(값)")
+        catch (ArgumentException a) when (a.Message == "잘못된 입력(개수)" && a.Message == "잘못된 입력(값)" &&
+                                          a.Message == "잘못된 입력(중복)")
         {
             Console.WriteLine(a.Message);
-            
         }
 
         return true;
@@ -74,6 +77,15 @@ public class User
         }
 
         throw new ArgumentException("잘못된 입력(값)");
+    }
+
+    public void Duplication_Value(List<int> Temp_List)
+    {
+        var duplicate = Temp_List.GroupBy(x => x).Where(Group => Group.Count() > 1);
+        if (duplicate.Count() != 0)
+        {
+            throw new ArgumentException("잘못된 입력(중복)");
+        }
     }
 
     public DataManager.Continue ToInput_Continue()

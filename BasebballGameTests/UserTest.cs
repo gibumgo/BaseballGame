@@ -63,6 +63,16 @@ public class UserTest
         var ex = Assert.Throws<ArgumentException>(() => { user.ToCompare_ValueRange(10 ,1,9);});
         StringAssert.Contains( "잘못된 입력(값)", ex.Message.ToString());
     }
+    [Test]
+    public void Duplication_Value_Test()
+    {
+        List<int> Test_List = new List<int>();
+        Test_List.Add(1);
+        Test_List.Add(1);
+        Test_List.Add(1);
+        var ex = Assert.Throws<ArgumentException>(() => { user.Duplication_Value(Test_List);});
+        StringAssert.Contains( "잘못된 입력(중복)", ex.Message.ToString());
+    }
 
     [Test]
     public void ToInput_Continue_Test()

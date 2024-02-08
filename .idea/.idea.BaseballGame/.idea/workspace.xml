@@ -8,8 +8,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e02e438a-8850-416d-af47-b8b9065f86c5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/BasebballGameTests/ComputerTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasebballGameTests/UserTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BaseballGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BaseballGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaseballGame.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/BaseballGame.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/Application.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/Application.cs" afterDir="false" />
@@ -28,17 +26,18 @@
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/ref/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/ref/BasebballGame.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/refint/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGame/obj/Debug/net8.0/refint/BasebballGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/ComputerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/ComputerTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/DataManagerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/DataManagerTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/GameManagerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/GameManagerTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasebballGameTests/UserTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/UserTest.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGame.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGameTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGameTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/BasebballGameTests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/CoverletSourceRootsMapping_BasebballGameTests" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/bin/Debug/net8.0/CoverletSourceRootsMapping_BasebballGameTests" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/BasebballGameTests/obj/Debug/net8.0/BasebballGameTests.sourcelink.json" afterDir="false" />
@@ -55,12 +54,20 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/System/Reflection/MethodBaseInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/System/Threading/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5abecb93434c4299acd01d522fdf8da2c9a910/10/7d89f307/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2c98ac4189b6d4c45630c6165b8e43b4feb4a6bbb658a343f5660cfbcd0e556/MethodWrapper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/48c3d3e27a3992b5816511af754196140ae50726131f3e6f6bdbf4a339e8364/Assert.Exceptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7f57eabcbac458cf4626a4c98a761414f5ed3895280f4d415e5cf53cc2abf/SimpleWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a515fa7ccda6f32a2c85540c278da647184e1322818ce185d2ae3e967ed95b/CompositeWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/bef935dbb8608c28a19b77b647713b45d6233995c443988e8154ae9ef3ddd3c/ContextUtils.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ca4271bab3e53b61f244a7ba081b39413d465de6262bbffb78775592f4228f5/Reflect.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d056b4e3b34cd15e21dec611d5b5bbaf85e1f15b445f4e6b3e4dc6634d649042/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/df6051f28c6c3f2ca0ddb6b26543d79632e5fa7a43a54a54eba91d4478568c0/SimpleWorkItemDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/fc423736d3854482b8e0d96af14ca889656672207d32f5f22759155cd2fea7/TestMethodCommand.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,7 +88,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Project.BasebballGame.executor": "Debug",
+    ".NET Project.BasebballGame.executor": "Run",
     ".NET Static Method.BaseballGame.GameManager.aa.executor": "Debug",
     "169e6b84-4bab-471f-9514-93e41aa7079a.executor": "Debug",
     "7ddd33fb-dac5-4798-a0d1-77cf9c1f47d2.executor": "Debug",
@@ -168,7 +175,9 @@
       <workItem from="1707134417045" duration="30000" />
       <workItem from="1707204924084" duration="24036000" />
       <workItem from="1707286023871" duration="3928000" />
-      <workItem from="1707294647037" duration="10219000" />
+      <workItem from="1707294647037" duration="22150000" />
+      <workItem from="1707319977069" duration="758000" />
+      <workItem from="1707368154271" duration="5649000" />
     </task>
     <servers />
   </component>
@@ -198,68 +207,68 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/BasebballGame/GameManager.cs</url>
-          <line>12</line>
+          <line>28</line>
           <properties documentPath="C:\Users\child\OneDrive\문서\GitHub\BaseballGame\BasebballGame\GameManager.cs" initialLine="15" containingFunctionPresentation="Method 'In_Game_'">
             <startOffsets>
-              <option value="313" />
+              <option value="836" />
             </startOffsets>
             <endOffsets>
-              <option value="314" />
+              <option value="837" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/BasebballGame/User.cs</url>
-          <line>28</line>
+          <line>30</line>
           <properties documentPath="C:\Users\child\OneDrive\문서\GitHub\BaseballGame\BasebballGame\User.cs" initialLine="28" containingFunctionPresentation="Method 'ExceptionCheck'">
             <startOffsets>
-              <option value="735" />
+              <option value="774" />
             </startOffsets>
             <endOffsets>
-              <option value="736" />
+              <option value="775" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/BasebballGameTests/UserTest.cs</url>
-          <line>26</line>
-          <properties documentPath="C:\Users\child\OneDrive\문서\GitHub\BaseballGame\BasebballGameTests\UserTest.cs" initialLine="13" containingFunctionPresentation="Method 'ExceptionCheck_Test'">
-            <startOffsets>
-              <option value="658" />
-            </startOffsets>
-            <endOffsets>
-              <option value="659" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/BasebballGameTests/UserTest.cs</url>
-          <line>39</line>
-          <properties documentPath="C:\Users\child\OneDrive\문서\GitHub\BaseballGame\BasebballGameTests\UserTest.cs" initialLine="26" containingFunctionPresentation="Method 'ExceptionCheck_Test'">
-            <startOffsets>
-              <option value="1239" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1273" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/BasebballGameTests/ComputerTest.cs</url>
-          <line>26</line>
+          <line>27</line>
           <properties documentPath="C:\Users\child\OneDrive\문서\GitHub\BaseballGame\BasebballGameTests\ComputerTest.cs" initialLine="26" containingFunctionPresentation="Method 'ToCompare_Value_List_Test'">
             <startOffsets>
-              <option value="663" />
+              <option value="685" />
             </startOffsets>
             <endOffsets>
-              <option value="664" />
+              <option value="686" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BasebballGameTests/GameManagerTest.cs</url>
+          <line>101</line>
+          <properties documentPath="C:\Users\child\OneDrive\문서\GitHub\BaseballGame\BasebballGameTests\GameManagerTest.cs" initialLine="66" containingFunctionPresentation="Method 'Ball_Count_Test'">
+            <startOffsets>
+              <option value="2704" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2740" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BasebballGameTests/GameManagerTest.cs</url>
+          <line>50</line>
+          <properties documentPath="C:\Users\child\OneDrive\문서\GitHub\BaseballGame\BasebballGameTests\GameManagerTest.cs" initialLine="50" containingFunctionPresentation="Method 'Compare_Computer_To_User_Test'">
+            <startOffsets>
+              <option value="1403" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1404" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -270,6 +279,8 @@
       </configuration>
       <configuration name="RiderUnitTests">
         <watch expression="Data.n_computer_List" language="C#" />
+        <watch expression="Data.n_player_List" language="C#" />
+        <watch expression="Data.state" language="C#" />
       </configuration>
       <configuration name="DotNetStaticMethod">
         <watch expression="Data.n_computer_List.Count" language="C#" />

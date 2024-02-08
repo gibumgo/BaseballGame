@@ -27,6 +27,16 @@
     &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.ComputerTest.Compare_Integer_Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.ComputerTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.ContinueInput_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.UserTest.Duplication_Value_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.Ball_Count_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.Player_Check_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest.Compare_Computer_To_User_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.GameManagerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6f1f9722_002D7ff9_002D4515_002Dba33_002D6c20aea92360/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Three_Random_Integer_Spawn_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D62E6E5-1A1A-4853-8F14-BE1B70147383::net8.0::test.ComputerTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
